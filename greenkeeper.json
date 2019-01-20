@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "react-complete-guiide/package.json"
+      ]
+    }
+  }
+}
